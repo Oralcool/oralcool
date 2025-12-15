@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Adeyinka Joseph Funsho
 Software Developer | Indie Developer
 
-Highly motivated Software developer, passionate about leveraging modern technologies like Next JS, React JS, UI/UX, CMS tools to create scalable, user-focused solutions. Known for delivering high-impact results, such as deploying a Learning Management System and streamlining operations with custom portals.
+Highly motivated Software developer, passionate about leveraging modern technologies like Next JS, React JS, UI/UX to create scalable, user-focused solutions. Known for delivering high-impact results, such as deploying a resume generator and streamlining operations with custom portals.
 
 ## 🛠️ Tech Stack
-- Frontend: -Next.js -React.js -Tailwind CSS -shadcn/ui -Aceternity UI
+- Frontend: -Next.js -React.js -TypeScript -Tailwind CSS -shadcn/ui -Aceternity UI
 - Backend: -Next.js API -MongoDB -Supabase
 - Technologies: -Cloudflare R2 -Uploadthing -Auth.js -API Integration -LemonSqueezy
 
